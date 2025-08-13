@@ -1,0 +1,5 @@
+str = input("enter a string: ")
+str2 = input("enter a string: ")
+str = sorted(str)
+str2 = sorted(str2)
+print(str == str2)
